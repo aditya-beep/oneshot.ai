@@ -25,5 +25,5 @@ You could use based on location, no of students and courses offered.  You could 
 For ex :- A college1 offers Computer science in Karnataka. The similar colleges for this would be other colleges in the same locality but offers similar courses and also with +/- 100 students range. Make sure you have mock data accordingly. 
 If there is none found, How would you handle it?
 Responsive UI (React)
-Show list of colleges
+
 
