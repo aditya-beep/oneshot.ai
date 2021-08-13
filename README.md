@@ -22,8 +22,4 @@ Web service (Node.js)
 Get College details by College name/id
 Get similar colleges for a given college
 You could use based on location, no of students and courses offered.  You could pull similar colleges.
-For ex :- A college1 offers Computer science in Karnataka. The similar colleges for this would be other colleges in the same locality but offers similar courses and also with +/- 100 students range. Make sure you have mock data accordingly. 
-If there is none found, How would you handle it?
-Responsive UI (React)
-
-
+For ex :- A college1 offers Computer science in Karnataka. The similar colleges for this would be other colleges in the same locality but offers similar courses and also with +/- 
