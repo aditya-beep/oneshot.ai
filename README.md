@@ -1,6 +1,5 @@
 # oneshot.ai
-College
-Id
+
 
 
 
